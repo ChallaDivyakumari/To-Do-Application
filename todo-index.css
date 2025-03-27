@@ -1,0 +1,6 @@
+.bg-image
+{
+    height: 600px;
+    background-image: url("/public/ToDoList.jpg");
+    background-size: cover;
+}

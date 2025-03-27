@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "userid": "john_nit",
+      "password": "john@nit",
+      "email": "john@gmail.com"
+    },
+    {
+      "id": "2",
+      "userid": "david",
+      "password": "david11",
+      "email": "david@outlook.com"
+    },
+    {
+      "id": "2d58",
+      "userid": "sanjay_nit",
+      "password": "Sanjay@123",
+      "email": "sanjay@gmail.com"
+    },
+    {
+      "id": "0c4b",
+      "userid": "Dhaksha",
+      "password": "Dhaksha@123",
+      "email": "dhaksha@gmail.com"
+    },
+    {
+      "id": "1e53",
+      "userid": "Dhaksha",
+      "password": "Dhaksha@123",
+      "email": "dhaksha@gmail.com"
+    },
+    {
+      "id": "6305",
+      "userid": "Dhaksha",
+      "password": "Dhaksha@123",
+      "email": "dhaksha@gmail.com"
+    },
+    {
+      "id": "c108",
+      "userid": "Dhaksha",
+      "password": "Dhaksha@123",
+      "email": "dhaksha@gmail.com"
+    },
+    {
+      "id": "22b7",
+      "userid": "Divya",
+      "password": "Divya@123",
+      "email": "divya@gmail.com"
+    },
+    {
+      "id": "5d99",
+      "userid": "Ravi",
+      "password": "Ravi@123",
+      "email": "ravi@gmail.com"
+    },
+    {
+      "id": "12af",
+      "userid": "Ram",
+      "password": "Ram@123",
+      "email": "ram@gmail.com"
+    }
+  ],
+  "appointments": [
+    {
+      "id": "1",
+      "title": "Friend Birthday",
+      "date": "2025-03-22",
+      "userid": "john_nit"
+    },
+    {
+      "id": "2",
+      "title": "Submit Project Document",
+      "date": "2025-03-18",
+      "userid": "david"
+    },
+    {
+      "id": "78dd",
+      "title": "Movie",
+      "date": "2025-03-28",
+      "userid": "sanjay_nit"
+    }
+  ]
+}
